@@ -1,0 +1,23 @@
+body{
+    background-color:rgb(247, 177, 151);
+    background-size: 100%;
+    /* width: 100%; */
+}
+h1{
+    text-align: center;
+    color: brown;
+}h3{background-color: bisque;
+    padding: 10px;
+
+}
+button{
+    padding: 10px;
+    background-color: bisque;
+    border: 1px solid bisque;
+    border-radius: 10px;
+    margin: 5px;
+    justify-content: center;
+}
+.btn{
+    display: flex;
+}
